@@ -1,4 +1,4 @@
 SF-Tree Algorithm
 ===============
 
-SF-Tree algorithm.
+Significant Friend Tree for social network mining.
